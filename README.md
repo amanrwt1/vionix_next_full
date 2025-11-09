@@ -1,1 +1,1 @@
-# vionix_next_full
+# Vionix (Next.js + OpenAI)\n1) npm install\n2) create .env.local with OPENAI_API_KEY=sk-...\n3) npm run dev\n4) open http://localhost:3000\n
